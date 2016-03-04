@@ -3,6 +3,15 @@ To mix two color with specified ratio. This is a mirror of [hexo/lib/plugins/hel
 
 ![](./example/gradual.png)
 
+* [Install](#install)
+* [Usage](#usage)
+  * [Define a color](#define-a-color)
+  * [Get r,g,b,a of a color](#get-rgba-of-a-color)
+  * [toString](#tostring)
+  * **[Mix 2 color](#mix-2-color)**
+* [License](#license)
+
+
 ## Install
 ```
 $ npm install color-mixture
