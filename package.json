@@ -1,0 +1,27 @@
+{
+  "name": "color-mixture",
+  "version": "0.1.0",
+  "description": "mix two color with specified ratio",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someus/color-mixture.js.git"
+  },
+  "keywords": [
+    "color",
+    "mix",
+    "mixture"
+  ],
+  "author": "hexo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someus/color-mixture.js/issues"
+  },
+  "homepage": "https://github.com/someus/color-mixture.js#readme"
+}

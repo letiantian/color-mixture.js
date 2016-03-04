@@ -1,6 +1,7 @@
 # color-mixture.js
 To mix two color with specified ratio. This is a mirror of [hexo/lib/plugins/helper/tagcloud.js](https://github.com/hexojs/hexo/blob/master/lib/plugins/helper/tagcloud.js). 
 
+![](./example/gradual.png)
 
 ## Usage
 
