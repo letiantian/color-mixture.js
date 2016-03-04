@@ -3,6 +3,11 @@ To mix two color with specified ratio. This is a mirror of [hexo/lib/plugins/hel
 
 ![](./example/gradual.png)
 
+## Install
+```
+$ npm install color-mixture
+```
+
 ## Usage
 
 ### Define a color
@@ -10,7 +15,7 @@ To mix two color with specified ratio. This is a mirror of [hexo/lib/plugins/hel
 mixture.Color(color_string)
 
 ```js
-var mixture = require('.');
+var mixture = require('color-mixture');
 
 // hex
 new mixture.Color('#0ff') // Color { r: 0, g: 255, b: 255, a: 1 }
