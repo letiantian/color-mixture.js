@@ -1,8 +1,6 @@
 # color-mixture.js
+To mix two color with specified ratio. This is a mirror of [hexo/lib/plugins/helper/tagcloud.js](https://github.com/hexojs/hexo/blob/master/lib/plugins/helper/tagcloud.js). 
 
-A mirror of hexo/lib/plugins/helper/tagcloud.js. 
-
-<span style="background-color:#292929">&nbsp;&nbsp;</span><span style="background-color:#414141">&nbsp;&nbsp;</span><span style="background-color:#585858">&nbsp;&nbsp;</span><span style="background-color:#707070">&nbsp;&nbsp;</span><span style="background-color:#888">&nbsp;&nbsp;</span><span style="background-color:#a0a0a0">&nbsp;&nbsp;</span><span style="background-color:#b8b8b8">&nbsp;&nbsp;</span><span style="background-color:#cfcfcf">&nbsp;&nbsp;</span><span style="background-color:#e7e7e7">&nbsp;&nbsp;</span><span style="background-color:#fff">&nbsp;&nbsp;</span>
 
 ## Usage
 
@@ -63,4 +61,4 @@ var mix_color = color1.mix(color2, 0.1);  // Color { r: 26, g: 26, b: 26, a: 1 }
 ```
 
 ## License
-the same as hexo.
+The same license as [hexo](https://github.com/hexojs/hexo).
